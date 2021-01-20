@@ -1,3 +1,19 @@
+﻿# Boaz-SR-ESRGAN-PyTorch
+- pre-trained model을 이용할 수 있습니다.
+- pre-trained model은 Game과 Real World의 축구영상에서 추출한 frame(이미지)를 학습하였습니다.
+- `test_video.py`는 기본적으로 w:h = 16:9 비율이며 h의 size가 180인 video를 input으로 받도록 설정하였습니다. 
+
+### Homepage
+- https://boazsr.herokuapp.com/index/
+
+### Result Videos
+- https://www.youtube.com/channel/UC7um5reD3yyAm0s8VLQ-iGw
+
+# Reference
+ESRGAN-PyTorch
+- https://github.com/Lornatang/ESRGAN-PyTorch#about-enhanced-super-resolution-generative-adversarial-networks
+
+
 # ESRGAN-PyTorch
 
 ### Overview
